@@ -1,4 +1,4 @@
-# 2374802010412
+# Xử lý ảnh số 0102 - 2374802010412
 CÔNG NGHỆ SỬ DỤNG
 1. PIL (Pillow): Đọc, chuyển đổi và lưu ảnh (Image.open(), convert())
 2. Numpy: Xử lý mảng ảnh như ma trận (np.array, fft2, meshgrid)
