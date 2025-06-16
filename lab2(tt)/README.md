@@ -23,7 +23,7 @@ im_array = np.array(img)
  3. Butterworth Lowpass Filter
  4. Butterworth Highpass Filter 
 
-# Bài 1:
+#Bài 1:
 + Công nghệ chính: Pillow + Numpy
 + Thuật toán nổi bật: Inverse, Gamma, Histogram 
 + Đặc điểm: tăng cường ảnh
